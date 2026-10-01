@@ -43,6 +43,5 @@ The dashboard allows users to explore sales information through different visual
 The final dashboard provides a visual representation of retail sales data in a simple and interactive format. The visualization helps users understand the data more effectively and identify important trends and patterns that may support data-driven business analysis and decision-making.
 
 ## Project Documentation
-- File
 - [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjNhNzIyZTItZjFmOS00ODZkLTg0MWItNzFkOGQyNjI1MmRkIiwidCI6IjM0ODViOTYzLTgyYmEtNGE2Zi04MTBmLWI1Y2MyMjZmZjg5OCIsImMiOjEwfQ%3D%3D)
 - [Dataset Kaggle](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)
