@@ -1,8 +1,7 @@
-# Banking Customer Churn Analysis Dashboard
-Interactive Banking Customer Churn Analysis Dashboard.
+# Interactive Banking Customer Churn Analysis Dashboard
+This data set contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left the bank (closed his account) or he continues to be a customer.
 
 ## Project Overview
-This data set contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left the bank (closed his account) or he continues to be a customer.
 This project uses data visualization to provide a clearer understanding of retail sales performance. The dashboard presents important information through interactive charts and visual elements, making the data easier to analyze and interpret.
 
 The project includes several visualization features such as:
