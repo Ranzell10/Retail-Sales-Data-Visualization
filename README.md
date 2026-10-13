@@ -1,4 +1,4 @@
-# Retail-Sales-Data-Visualization
+# Banking Customer Churn Analysis Dashboard
 Interactive Banking Customer Churn Analysis Dashboard.
 
 ## Project Overview
